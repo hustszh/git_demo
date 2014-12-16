@@ -6,5 +6,7 @@ public class Hello {
 		System.out.println("Hello world!");
 		int idx = 10;
 		System.out.println("idx:" + idx);
+		String str = "update";
+		System.out.println(str);
 	}
 }
